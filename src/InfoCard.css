@@ -1,0 +1,13 @@
+.content {
+    text-align: left;
+    font-size: medium;
+    font-style: italic;
+    font-weight: 200;
+    padding: 0px;
+}
+.content > div {
+    margin-bottom: 8px; 
+  }
+  .card {
+    border-radius: 20px;
+  }
